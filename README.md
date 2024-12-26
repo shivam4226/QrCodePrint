@@ -38,7 +38,7 @@ If you'd like to print a QR code, simply click on the **Print** button. This wil
 
 ## Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: React js, css, Material UI(Mui)
 - **Libraries Used**:
   - [QRCode.js](https://github.com/davidshimjs/qrcodejs) for QR code generation.
   - [FileSaver.js](https://github.com/eligrey/FileSaver.js/) for downloading QR codes.
